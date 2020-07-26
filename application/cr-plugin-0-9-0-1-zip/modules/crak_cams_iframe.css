@@ -1,0 +1,11 @@
+.crak_cams_ctn {
+    width: 100%;
+    position: relative;
+    height: 0;
+}
+
+.crak_cams_ctn iframe {
+    width: 100%;
+    position: absolute;
+    top: 0;
+}

@@ -1,0 +1,158 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow-x: hidden;
+}
+
+.cams-widget {
+    font-size: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: -5px;
+    opacity: 0;
+    transition: opacity .4s;
+}
+
+.cams-widget.cw-ready {
+    opacity: 1;
+}
+
+.cams-widget .cw-card {
+    display: inline-block;
+    padding: 5px;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    font-size: 0;
+    width: 100%;
+}
+
+.cams-widget .cw-card a {
+    position: relative;
+    color: #fff;
+    display: block;
+}
+
+.cams-widget.cw-cols-2 .cw-card {
+    width: 50%;
+}
+
+.cams-widget.cw-cols-3 .cw-card {
+    width: 33.3333%;
+    width: calc(100% / 3);
+}
+
+.cams-widget.cw-cols-4 .cw-card {
+    width: 25%;
+}
+
+.cams-widget.cw-cols-5 .cw-card {
+    width: 20%;
+}
+
+.cams-widget.cw-cols-6 .cw-card {
+    width: 16.66666%;
+    width: calc(100% / 6);
+}
+
+.cams-widget.cw-cols-7 .cw-card {
+    width: 14.28571%;
+    width: calc(100% / 7);
+}
+
+.cams-widget.cw-cols-8 .cw-card {
+    width: 12.5%;
+}
+
+.cams-widget.cw-cols-9 .cw-card {
+    width: 11.1111111111%;
+    width: calc(100% / 9);
+}
+
+.cams-widget.cw-cols-10 .cw-card {
+    width: 10%;
+}
+
+.cams-widget.cw-cols-11 .cw-card {
+    width: 9.090909090909%;
+    width: calc(100% / 11);
+}
+
+.cams-widget.cw-cols-12 .cw-card {
+    width: 8.333333333333%;
+    width: calc(100% / 12);
+}
+
+.cams-widget .cw-card.live .cw-thumbnail-ctn:after {
+    content: '';
+    background: #7f7;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 100px;
+    margin: 2.5%;
+    padding: 2.5%;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5), inset 0 0 2px #0f0;
+}
+
+.cw-thumbnail-ctn {
+    width: 100%;
+    height: 0;
+    padding-top: 75%;
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+
+.cams-widget .cw-card img {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: auto;
+}
+
+.cw-info-ctn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .6);
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+    padding: .2em .3em;
+    text-align: right;
+    font-size: .75rem;
+}
+
+.cw-name {
+    float: left;
+}
+
+.cw-live {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.cw-live iframe {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: 0 0;
+}

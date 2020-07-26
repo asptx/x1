@@ -1,0 +1,200 @@
+{
+  "current_version": "0.9.0",
+  "current_version_url": "http://static.crakrevenue.com/wordpress/cr-plugin-0.9.0.zip",
+  "crakrevenue_links": [
+    {
+      "name": "Adult",
+      "url": "https:\/\/t.irtyf.com\/ucek6vqxog?aff_id={aff_id}&offer_id=3788&bo=3471,3472,3473,3474,3475",
+      "enabled": true
+    },
+    {
+      "name": "Cams",
+      "url": "https:\/\/t.irtyf.com\/c2athygcw0?aff_id={aff_id}&offer_id=3664&bo=2779,2778,2777,2776,3391",
+      "enabled": true
+    },
+    {
+      "name": "VOD",
+      "url": "https:\/\/t.irtyf.com\/88r0zst6io?aff_id={aff_id}&offer_id=3784&bo=2745,2746,2748,2749,2750",
+      "enabled": true
+    },
+    {
+      "name": "Dating",
+      "url": "https:\/\/t.irtyf.com\/zjn2s67eps?aff_id={aff_id}&offer_id=3785&bo=2753,2754,2755,2756",
+      "enabled": true
+    },
+    {
+      "name": "Gay",
+      "url": "https:\/\/t.irtyf.com\/unzw301268?aff_id={aff_id}&offer_id=4080&bo=2772,2771,2770,2769,2768",
+      "enabled": true
+    },
+    {
+      "name": "Adult Gaming",
+      "url": "https:\/\/t.irtyf.com\/hmrx290br4?aff_id={aff_id}&offer_id=4090&bo=3511,3512,3521,3522",
+      "enabled": true
+    },
+    {
+      "name": "Survey",
+      "url": "https:\/\/t.irtyf.com\/hmrx290br4?aff_id={aff_id}&offer_id=4395&bo=2786,2787,2788,2789,2790",
+      "enabled": true
+    }
+  ],
+  "crak_banners": [
+    {
+      "name": "Global Adult",
+      "zones": [
+        {
+          "zone_id": "11922",
+          "bucket_id": "60670",
+          "offer_id": "3788",
+          "file_id": "252623",
+          "enabled": true
+        },
+        {
+          "zone_id": "12524",
+          "bucket_id": "60670",
+          "offer_id": "3788",
+          "file_id": "286747",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Survey",
+      "zones": [
+        {
+          "zone_id": "12517",
+          "bucket_id": "67580",
+          "offer_id": "4395",
+          "file_id": "286749",
+          "enabled": true
+        },
+        {
+          "zone_id": "12526",
+          "bucket_id": "67580",
+          "offer_id": "4395",
+          "file_id": "286750",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Cams",
+      "zones": [
+        {
+          "zone_id": "11923",
+          "bucket_id": "60671",
+          "offer_id": "3664",
+          "file_id": "252622",
+          "enabled": true
+        },
+        {
+          "zone_id": "12520",
+          "bucket_id": "60671",
+          "offer_id": "3664",
+          "file_id": "286743",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Dating",
+      "zones": [
+        {
+          "zone_id": "11906",
+          "bucket_id": "60531",
+          "offer_id": "3785",
+          "file_id": "252177",
+          "enabled": true
+        },
+        {
+          "zone_id": "12521",
+          "bucket_id": "60531",
+          "offer_id": "3785",
+          "file_id": "286744",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Adult Gaming",
+      "zones": [
+        {
+          "zone_id": "11925",
+          "bucket_id": "60674",
+          "offer_id": "4090",
+          "file_id": "252621",
+          "enabled": true
+        },
+        {
+          "zone_id": "12519",
+          "bucket_id": "60674",
+          "offer_id": "4090",
+          "file_id": "286742",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Paysite Hardcore",
+      "zones": [
+        {
+          "zone_id": "11924",
+          "bucket_id": "60672",
+          "offer_id": "3784",
+          "file_id": "252624",
+          "enabled": true
+        },
+        {
+          "zone_id": "12525",
+          "bucket_id": "60672",
+          "offer_id": "3784",
+          "file_id": "286748",
+          "enabled": false
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "name": "Gay",
+      "zones": [
+        {
+          "zone_id": "11926",
+          "bucket_id": "60673",
+          "offer_id": "4080",
+          "file_id": "286745",
+          "enabled": false
+        },
+        {
+          "zone_id": "12522",
+          "bucket_id": "60673",
+          "offer_id": "4080",
+          "file_id": "286746",
+          "enabled": false
+        }
+      ],
+      "enabled": false
+    }
+  ],
+  "crak_banners_url": "https://htdvt.com/en/us/banner/url/zone?zid={zone_id}&pid=0&custom1=&custom2={bucket_id}&custom3={transaction_id}&custom6=&custom7=PUB_{aff_id}&cturl=https://t.irtyf.com/ihxg01j1ds?aff_id={aff_id}&file_id={file_id}&offer_id={offer_id}&aff_sub={affsub}&aff_sub2=PUB_wpplugin;LOC_widget&source={source}&url=",
+  "cams_url": "https://t.irtyf.com/yr3qymgta9?campaign_id=3532&aff_id={aff_id}&aff_sub={affsub}&aff_sub2=PUB_wpplugin;BLOC_cam&source={source}&model=$$name$$",
+  "crak_banner_sizes": {
+    "-1": {
+      "enabled": false
+    },
+    "0": {
+      "width": 300,
+      "height": 250,
+      "enabled": true
+    },
+    "1": {
+      "width": 305,
+      "height": 99,
+      "enabled": false
+    }
+  }
+}
