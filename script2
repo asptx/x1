@@ -1,7 +1,0 @@
-{
-   var script = document.createElement("script");
-   script.async = false;
-   script.src = "//plug.plufdsb.com/wdgt/?PRT=ZGl2PTE1OTUwMDAwNzQxOTImY2ZmPSZmZj1BcmlhbCZjZnQ9JmZmdD1BcmlhbCZicmM9MDAwMDAwJmliY2g9MDAwMDAwJmZjPTAwMDAwMCZodGM9MDAwMDAwJmRiPTYmYz0zMDAmcGQ9NSZpdz0yJmJyPTAmZnN6PTEyJmZzdD0xNiZjaD0yJmZjdD0wMDAwMDAmaXluPTEmaXQ9d2lkZSZzdD0xJnRhPWxlZnQmdGl0bGVsZW5ndGg9ZnVsbCZ0cD0yJmJ0Yz0wMDAwMDAmZGVjPXVuZGVybGluZSZmdz1ib2xkJnd0PUEmc2V4dWFsX29yaWVudGF0aW9uPWdheSZudWRlX3N0YXRlPW51ZGUmd2lkZ2V0X3Jlc3BvbnNpdmU9MCZwb3B1bmRlcj0wJmN1c3RvbWNzcz0mdGFnczA9YmVhcjtiYXJlYmFjaztzdHJhaWdodCBndXlzO2xvY2tlciByb29tJnBiZGQ9MCZwYnA9dG9wJnBiYT1yaWdodCZ3dGRkPTEmd3R2PTEgeWVhciBmcmVlIEVWRVJZIDEwLXRoIFJFR0lTVEVSRUQhJmZ3dD1ib2xkJnNpdGVsaW5rPTA=&source=&aff_sub=&aff_sub2=&aff_sub3=&aff_sub4=&aff_sub5=&fid=120069&file_id=458314";
-   var dst = document.getElementsByTagName("script")[0];
-   dst.parentNode.insertBefore(script, dst);
-}
